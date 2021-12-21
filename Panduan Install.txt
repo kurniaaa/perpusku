@@ -1,0 +1,6 @@
+1. Import file database "public\db\perpusku.sql"
+2. Pastikan extension "intl" dan "sqlite3" telah diaktifkan di php.ini xampp
+3. Buka file ".env" dan pastikan konfigurasi database sesuai dengan database yg telah di import sebelumnya
+4. Jalankan perintah "php spark serve" di terminal, pastikan ada di folder yg benar
+5. Buka http://localhost:8080 di browser
+6. Enjoy
